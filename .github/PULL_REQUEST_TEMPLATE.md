@@ -4,7 +4,7 @@
 
 ## Related issue number
 
-<!-- please use "fix #123" style references so the issue is closed when this PR is merged. -->
+<!-- please use "fixes/closes/resolves #123" style references so the issue is closed when this PR is merged. -->
 
 ## Checklist
 
