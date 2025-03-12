@@ -32,7 +32,8 @@
 - [ ] Any hacks or questionable design decisions have been highlighted in the code and in the PR.
 - [ ] Does the PR require any infrastructure changes before deployment? Detail them below if so.
 - [ ] Are there any other outstanding blockers or pre-requisites that must be satisfied elsewhere in order for this work to be released?
-- [ ] Are there any required post-deployment actions? If so, detail them below **_AND_** on a `develop` to `main` PR. 
+- [ ] If this is a feature PR, add this PR to the summary of the `Dev -> Prod` PR or open that PR if necessary. This helps us track the contents of production deploys.
+- [ ] Are there any other required post-deployment actions? If so, detail them below **_AND_** on a `develop` to `main` PR.
 
 
 ### Infrastructure Changes (Optional)
